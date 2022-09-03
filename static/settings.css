@@ -7,10 +7,10 @@
 }
 
 :root {
-    --background: #24223e;
-    --sidebarcolor1: #11101d;
-    --sidebarcolor2: #fff;
-    --textcolor: #fff;
+    --background: #77CCFF;
+    --sidebarcolor1: #3388FF;
+    --sidebarcolor2: #000000;
+    --textcolor: #000000;
 }
 
 /* Generic CSS */
